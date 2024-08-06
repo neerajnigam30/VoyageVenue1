@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Cozy Cabin in the Woods",
+      "description": "A beautiful, secluded cabin perfect for a weekend getaway.",
+      "image": {
+        "url": "https://example.com/images/cabin.jpg",
+        "filename": "cabin.jpg"
+      },
+      "price": 120,
+      "location": "Mountain Creek",
+      "country": "United States",
+      "reviews": [
+        "64d41ae8f7a9b4d6d91a1c9a",
+        "64d41ae8f7a9b4d6d91a1c9b"
+      ],
+      "owner": "64d41ae8f7a9b4d6d91a1c99",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.003418, 39.753993]
+      }
+    },
+    {
+      "title": "Modern Apartment in Downtown",
+      "description": "A stylish apartment in the heart of the city with all modern amenities.",
+      "image": {
+        "url": "https://example.com/images/apartment.jpg",
+        "filename": "apartment.jpg"
+      },
+      "price": 250,
+      "location": "Downtown",
+      "country": "Canada",
+      "reviews": [
+        "64d41ae8f7a9b4d6d91a1c9c",
+        "64d41ae8f7a9b4d6d91a1c9d"
+      ],
+      "owner": "64d41ae8f7a9b4d6d91a1c98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3832, 43.6532]
+      }
+    },
+    {
+      "title": "Beachside Bungalow",
+      "description": "Relax in this charming bungalow just steps from the ocean.",
+      "image": {
+        "url": "https://example.com/images/bungalow.jpg",
+        "filename": "bungalow.jpg"
+      },
+      "price": 180,
+      "location": "Ocean Drive",
+      "country": "Australia",
+      "reviews": [
+        "64d41ae8f7a9b4d6d91a1c9e",
+        "64d41ae8f7a9b4d6d91a1c9f"
+      ],
+      "owner": "64d41ae8f7a9b4d6d91a1c97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.4295, -27.9958]
+      }
+    }
+  ]
+  
